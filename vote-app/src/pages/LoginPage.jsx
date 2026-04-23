@@ -1,9 +1,14 @@
-import React from 'react'
-import NavBar from '../components/NavBar/NavBar'
-import Login from '../components/Login/login'
+import React from 'react';
+import Login from '../components/Login/Login';
+
+
 const LoginPage = () => {
   return (
+
     <Login />
+
+
+
   )
 }
 

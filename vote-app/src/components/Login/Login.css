@@ -1,0 +1,25 @@
+.login-card {
+  border-radius: 12px;
+  padding: 40px !important;
+  min-width: 400px;
+}
+
+.form-control {
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.btn-signin {
+  background-color: #3D03A2 !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 12px !important;
+  font-weight: 600 !important;
+}
+
+
+.btn-signin:hover {
+  background-color: #4338ca;
+  color: white;
+}
