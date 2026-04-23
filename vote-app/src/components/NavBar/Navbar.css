@@ -5,6 +5,7 @@
 }
 
 .logo {
-    width: 200px;
+    height: 70px;
+    width: max-content;
    
 }
